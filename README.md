@@ -8,4 +8,4 @@ You should head on over to Stanford Web Services GitHub account. They have what 
 
 **Are you looking for something else?**  
 You should head on over to Stanford Web Services GitHub account as they have lots of goodies.    
-[https://github.com/SU-SWS/stanford_capx/](https://github.com/SU-SWS/stanford_capx/)
+[https://github.com/SU-SWS/](https://github.com/SU-SWS/)
